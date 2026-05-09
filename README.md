@@ -49,3 +49,6 @@ The code generates two decision tree visualizations:
 ## Requirements
 ```bash
 pip install pandas scikit-learn xgboost matplotlib
+```
+
+Run the .ipynb notebook in Jupyter/Colab; a detailed academic report covering the full project pipeline (model choice, visualization, preprocessing, results) is also included
